@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\k3141\\source\\repos\\invader-game\\invader-game\\",
+  "WorkspaceRootPath": "C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|invader-game.pyproj|C:\\Users\\k3141\\source\\repos\\invader-game\\invader-game\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|invader-game.pyproj|C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\static\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|invader-game.pyproj|solutionrelative:static\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|invader-game.pyproj|C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|invader-game.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\static\\script.js",
+              "RelativeDocumentMoniker": "static\\script.js",
+              "ToolTip": "C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\static\\script.js",
+              "RelativeToolTip": "static\\script.js",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAqwKAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T12:26:52.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "app.py",
-              "DocumentMoniker": "C:\\Users\\k3141\\source\\repos\\invader-game\\invader-game\\app.py",
+              "DocumentMoniker": "C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\app.py",
               "RelativeDocumentMoniker": "app.py",
-              "ToolTip": "C:\\Users\\k3141\\source\\repos\\invader-game\\invader-game\\app.py",
+              "ToolTip": "C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\invader-game\\app.py",
               "RelativeToolTip": "app.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-17T07:24:27.679Z",
+              "WhenOpened": "2024-08-20T11:07:10.554Z",
               "EditorCaption": ""
             }
           ]

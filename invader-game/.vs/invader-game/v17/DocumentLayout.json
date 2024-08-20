@@ -1,71 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|PythonApplication2\\PythonApplication2.pyproj|C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|PythonApplication2\\PythonApplication2.pyproj|solutionrelative:PythonApplication2\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|PythonApplication2\\invader-game.pyproj|C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|PythonApplication2\\invader-game.pyproj|solutionrelative:PythonApplication2\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|PythonApplication2\\PythonApplication2.pyproj|C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\invader-game.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C0030564-0BBD-44F9-9F46-F61BFA81A111}|PythonApplication2\\PythonApplication2.pyproj|solutionrelative:PythonApplication2\\invader-game.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\k3141\\OneDrive\\Documents\\GitHub\\invader-game\\invader-game\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\templates\\index.html",
-              "RelativeDocumentMoniker": "PythonApplication2\\templates\\index.html",
-              "ToolTip": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\templates\\index.html",
-              "RelativeToolTip": "PythonApplication2\\templates\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-17T06:18:30.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "app.py",
-              "DocumentMoniker": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\app.py",
-              "RelativeDocumentMoniker": "PythonApplication2\\app.py",
-              "ToolTip": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\app.py",
-              "RelativeToolTip": "PythonApplication2\\app.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-17T06:15:14.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "invader-game.py",
-              "DocumentMoniker": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\invader-game.py",
-              "RelativeDocumentMoniker": "PythonApplication2\\invader-game.py",
-              "ToolTip": "C:\\Users\\k3141\\source\\repos\\PythonApplication2\\PythonApplication2\\invader-game.py",
-              "RelativeToolTip": "PythonApplication2\\invader-game.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-17T06:11:39.285Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
